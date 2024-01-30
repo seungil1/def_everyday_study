@@ -1,2 +1,2 @@
  *def_everyday_study*
- *매일 코딩하기*
+ \n*매일 코딩하기*
