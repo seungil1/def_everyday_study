@@ -1,2 +1,2 @@
-* def_everyday_study*
+*def_everyday_study*
 
